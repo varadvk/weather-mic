@@ -7,10 +7,14 @@ Technology stacks used.
 1. Java 8
 2. Spring Boot
 
-Note:
+Notes:
 
 1. Need to take care of using correct port number in URL (Default port number is 8080).
 2. These end point can be tested using any api tester like postman or can be used in any browser directly.
+3. Available countries: India, United Kingdom, United States of America
+4. Available cities of the India: Mumbai, Pune, Kolhapur, Nashik, Nagpur
+5. Available cities of the United Kingdom: London, Edinburgh, Birmingham, Glasgow
+6. Available cities of the United States of America: New York, Chicago, Las Vegas, Seattle, San Francisco
 
 REST end points created.
 
